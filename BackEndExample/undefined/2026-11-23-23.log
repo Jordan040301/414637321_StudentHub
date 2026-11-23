@@ -1,0 +1,21 @@
+info: Nov-23-2026 23:30:56: 	listening on *:8877
+error: Nov-23-2026 23:30:56: 	error: cannt connet to mongoDB MongoServerError: Authentication failed.
+info: Nov-23-2026 23:30:56: 	suscess: connet to mongoDB @mongodb://studenthub_app:StudentHub_App_2026@127.0.0.1:27017/studenthub?authSource=admin
+info: Nov-23-2026 23:35:48: 	listening on *:8877
+error: Nov-23-2026 23:35:48: 	error: cannt connet to mongoDB MongoServerError: Authentication failed.
+info: Nov-23-2026 23:35:48: 	suscess: connet to mongoDB @mongodb://studenthub_app:StudentHub_App_2026@127.0.0.1:27017/studenthub?authSource=admin
+info: Nov-23-2026 23:42:55: 	listening on *:8877
+error: Nov-23-2026 23:42:55: 	error: cannt connet to mongoDB MongoServerError: Authentication failed.
+info: Nov-23-2026 23:42:55: 	suscess: connet to mongoDB @mongodb://studenthub_app:StudentHub_App_2026@127.0.0.1:27017/studenthub?authSource=admin
+info: Nov-23-2026 23:47:28: 	listening on *:8877
+error: Nov-23-2026 23:47:28: 	error: cannt connet to mongoDB MongoServerError: Authentication failed.
+info: Nov-23-2026 23:47:28: 	suscess: connet to mongoDB @mongodb://studenthub_app:StudentHub_App_2026@127.0.0.1:27017/studenthub?authSource=admin
+info: Nov-23-2026 23:50:29: 	listening on *:8877
+error: Nov-23-2026 23:50:29: 	error: cannt connet to mongoDB MongoServerError: Authentication failed.
+info: Nov-23-2026 23:50:29: 	suscess: connet to mongoDB @mongodb://studenthub_app:StudentHub_App_2026@127.0.0.1:27017/studenthub?authSource=admin
+info: Nov-23-2026 23:55:55: 	listening on *:8877
+error: Nov-23-2026 23:55:55: 	error: cannt connet to mongoDB MongoServerError: Authentication failed.
+info: Nov-23-2026 23:55:55: 	suscess: connet to mongoDB @mongodb://studenthub_app:StudentHub_App_2026@127.0.0.1:27017/studenthub?authSource=admin
+info: Nov-23-2026 23:57:32: 	listening on *:8877
+error: Nov-23-2026 23:57:32: 	error: cannt connet to mongoDB MongoServerError: Authentication failed.
+info: Nov-23-2026 23:57:32: 	suscess: connet to mongoDB @mongodb://studenthub_app:StudentHub_App_2026@127.0.0.1:27017/studenthub?authSource=admin
